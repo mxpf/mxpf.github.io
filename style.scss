@@ -223,7 +223,6 @@ nav {
 //
 
 .posts > .post {
-  font-size: x-small;
   padding-bottom: 2em;
 }
 
@@ -246,6 +245,7 @@ nav {
   }
 
   .read-more {
+    font-size: x-small;
     text-transform: uppercase;
   }
 }
