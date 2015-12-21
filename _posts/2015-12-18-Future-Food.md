@@ -11,6 +11,6 @@ The idea is that, if you were so inclined, Soylent would be all you would ever h
 
 The inventor of Soylent, Rob Rhinehart, is one of those brilliant/insane people that takes ideas all the way out to their logical conclusions, no matter how weird. [Read the guy's blog](http://robrhinehart.com/)...it's beautifully bonkers. He's obsessed with efficiency and minimalism: he runs his entire apartment off of a single $250 solar panel. He's scapped his overpowered phone and computer for the most energy efficient models of each that he could find.
 
-And now he's created Soylent, a food that allows the manufacturers and consumers of the product to be as efficient as humanly (inhumanly?) possible. 
+And now he's created Soylent, a food that allows both the manufacturers and consumers of the product to be as efficient as humanly (inhumanly?) possible. Making and drinking Soylent involves minimal waste.
 
 
