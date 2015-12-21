@@ -3,6 +3,6 @@ layout: post
 title: Future Food
 ---
 
-For the past three weeks I've been experimenting with drinking Soylent, the unfortunately-named powdered food invented by Rob Rhinehart.
+So for the past three weeks I've been experimenting with future food called Soylent. No, it doesn't have people in it. I don't think.
 
-Based on reading his blog, Mr. Rhinehart appears to be batshit crazy. But to me it's that kind of crazy I like, that kind that takes an idea and play's it out, way out, to its logical conclusion.
+Soylent is a powdered meal in a bag that you mix with water a little vat they send you. Shake it up and you have a little sci fi tank filled with precisely 2000 calories of a food substance that satisfies all of your daily nutritional requirements.
