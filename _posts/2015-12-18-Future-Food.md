@@ -9,8 +9,8 @@ Soylent is a powdered meal in a bag that is mixed with water in a little vat the
 
 The idea is that, if you were so inclined, Soylent would be all you would ever have to eat.
 
-The inventor of Soylent, Rob Rhinehart, is one of those brilliant/insane people that takes ideas all the way out to their logical conclusions, no matter how weird. [Read the guy's blog](http://robrhinehart.com/)...it's beautifully bonkers. He's obsessed with efficiency and minimalism: he runs his entire apartment off of a $250 solar panel. He's tossed his overpowered phone and computer for the most energy efficient models of each that he could find.
+The inventor of Soylent, Rob Rhinehart, is one of those brilliant/insane people that takes ideas all the way out to their logical conclusions, no matter how weird. [Read the guy's blog](http://robrhinehart.com/)...it's beautifully bonkers. He's obsessed with efficiency and minimalism: he runs his entire apartment off of a single $250 solar panel. He's scapped his overpowered phone and computer for the most energy efficient models of each that he could find.
 
-And now he's made Soylent, a food that allows the manufacturers, distributors and consumers of the product to be as efficient as possible.
+And now he's created Soylent, a food that allows the manufacturers and consumers of the product to be as efficient as humanly (inhumanly?) possible. The carbon footprint and the amount of waste making Soylent
 
 
