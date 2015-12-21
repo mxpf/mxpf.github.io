@@ -9,6 +9,6 @@ Soylent is a powdered meal in a bag that is mixed with water in a little vat the
 
 The idea is that, if you were so inclined, Soylent is all you have to eat.
 
-
+The inventor of Soylent, Rob Rhinehart, is one of those brilliant/insane people that take ideas all the way out to their logical conclusions, no matter how weird. Read the guy's blog:
 
 The ultimate minimalist food.
