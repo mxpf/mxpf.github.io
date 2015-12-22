@@ -164,21 +164,10 @@ img {
   @include mobile {
     float: none;
     display: block;
-    margin: 0 auto;
   }
 
   img {
     border-radius: 5px;
-  }
-}
-
-.site-info {
-  float: left;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
   }
 }
 
