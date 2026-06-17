@@ -771,6 +771,10 @@
      * Determines whether the active section or slide is scrollable through and scrolling bar
      */
     function isScrollable(activeSection) {
+      if (activeSection.is('.section__works, .section__experiments')) {
+        return $();
+      }
+
       return activeSection.filter('.pp-scrollable');
     }
 
