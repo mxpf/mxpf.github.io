@@ -1,0 +1,11 @@
+{
+  "name": "mxpf-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "content": "node scripts/sync-content.mjs",
+    "build": "npm run content && node scripts/build-site.mjs",
+    "check": "./scripts/check-site.sh",
+    "serve": "python3 -m http.server 8765"
+  }
+}
