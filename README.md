@@ -150,6 +150,6 @@ Adjust the feel in `css/theme.css`:
 
 ## License
 
-The source code for this site is licensed under the [MIT License](./license).
+The source code for this site is licensed under the MIT License.
 
 All portfolio content, images, case studies, writing, logos, trademarks, and design assets are © Max Pfennighaus or their respective owners and may not be copied, reused, or redistributed without permission.
